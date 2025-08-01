@@ -1,6 +1,6 @@
 # Health Data Analysis and Classification
 
-This repository contains a Jupyter Notebook (`task.ipynb`) that performs comprehensive data analysis and classification on a health dataset (`health_data_10000_chunk.csv`). The goal is to predict the "Current status of microbiota" (Optimal, Suboptimal, At Risk) using various machine learning and deep learning models.
+This repository contains a Jupyter Notebook (`code.ipynb`) that performs comprehensive data analysis and classification on a health dataset (`health_data_10000_chunk.csv`). The goal is to predict the "Current status of microbiota" (Optimal, Suboptimal, At Risk) using various machine learning and deep learning models.
 
 ## Project Overview
 
